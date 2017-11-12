@@ -12,17 +12,17 @@ public class Warehouse {
         this.locations = locations;
     }
 
-    public int calNumberOfSKU(SKU sku){
+    public int calNumberOfSKU(SKU sku) {
         int numberOfSKU = 0;
 
         return numberOfSKU;
     }
 
-    public SKU getSKU(Dimension dem){
+    public SKU getSKU(Dimension dem) {
         return null;
     }
 
-    public List<Product> getListOfProductWaitForShip(){
+    public List<Product> getListOfProductWaitForShip() {
         return null;
     }
 
