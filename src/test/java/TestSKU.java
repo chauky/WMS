@@ -1,3 +1,3 @@
 public class TestSKU {
-    @Test
+
 }
